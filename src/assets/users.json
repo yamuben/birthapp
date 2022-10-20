@@ -1,0 +1,33 @@
+[{
+    "names":"yamu benjamin",
+    "email":"yamu@gmail.com",
+    "role":"admin",
+    "password":"1234",
+    "address":"Gasabo, Rusororo",
+    "phone":"+788 888 888 888",
+    "isActive":true
+  },{
+    "names":"yamu benjamin",
+    "email":"yamu@gmail.com",
+    "role":"admin",
+    "password":"1234",
+    "address":"Gasabo, Rusororo",
+    "phone":"+788 888 888 888",
+    "isActive":false
+  },{
+    "names":"yamu benjamin",
+    "email":"yamu@gmail.com",
+    "role":"user",
+    "password":"1234",
+    "address":"Gasabo, Rusororo",
+    "phone":"+788 888 888 888",
+    "isActive":true
+  },{
+    "names":"yamu benjamin",
+    "email":"yamu@gmail.com",
+    "role":"admin",
+    "password":"1234",
+    "address":"Gasabo, Rusororo",
+    "phone":"+788 888 888 888",
+    "isActive":true
+  }]

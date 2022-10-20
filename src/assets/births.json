@@ -1,0 +1,50 @@
+[
+    {
+      "names": "yamu benjamin",
+      "dateOfBirth": "12-02-2022",
+      "weight": 12,
+      "parents": ["kamugisha ALex", "Merry Kelia"],
+      "doctor": "Dr Habumugisha",
+      "registeredBy": "111111111111",
+      "HospitalName": "Masaka hospital",
+      "bloodType": "O",
+      "address": "Kicukiro, Masaka",
+      "comments": "Tempor qui culpa velit elit laboris in ex in amet cillum ea. Voluptate aute velit consectetur amet ipsum nulla excepteur ipsum proident enim ut ex fugiat ad. Ut aute fugiat eu in do amet nostrud consequat aliquip. Fugiat qui reprehenderit do pariatur. Eu reprehenderit veniam do occaecat enim occaecat labore."
+    },
+    {
+      "names": "yamu benjamin",
+      "dateOfBirth": "12-02-2022",
+      "weight": 12,
+      "parents": ["kamugisha ALex", "Merry Kelia"],
+      "doctor": "Dr Habumugisha",
+      "registeredBy": "111111111111",
+      "HospitalName": "Masaka hospital",
+      "bloodType": "AB",
+      "address": "Kicukiro, Masaka",
+      "comments": "Tempor qui culpa velit elit laboris in ex in amet cillum ea. Voluptate aute velit consectetur amet ipsum nulla excepteur ipsum proident enim ut ex fugiat ad. Ut aute fugiat eu in do amet nostrud consequat aliquip. Fugiat qui reprehenderit do pariatur. Eu reprehenderit veniam do occaecat enim occaecat labore.", "names": "Kelsey Lowery",
+      "gender": "male",
+      "dateOfBirth": "2022-10-19T13:23:45.185Z",
+      "bloodType": "A",
+      "father": "Qui qui lorem corrup",
+      "mother": "Aperiam sit quia vo",
+      "parentPhone": "+1 (479) 996-8291",
+      "HospitalName": "Jerome Terrell",
+      "doctor": "A",
+      "address": "Dolores pariatur Cu",
+      "comments": "Tempora proident fa"
+ 
+    },
+    {
+      "names": "Kelsey Lowery",
+      "gender": "male",
+      "dateOfBirth": "2022-10-19T13:23:45.185Z",
+      "bloodType": "A",
+      "father": "Qui qui lorem corrup",
+      "mother": "Aperiam sit quia vo",
+      "parentPhone": "+1 (479) 996-8291",
+      "HospitalName": "Jerome Terrell",
+      "doctor": "A",
+      "address": "Dolores pariatur Cu",
+      "comments": "Tempora proident fa"
+  }
+]
