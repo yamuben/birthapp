@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASEURL = "http://142.93.204.111:5000/api/v1";
+const BASEURL = "https://birthreg.herokuapp.com/api/v1";
 // const BASEURL = "http://localhost:5000/api/v1";
 
 const config = { headers: { "Content-Type": "application/json" } };
